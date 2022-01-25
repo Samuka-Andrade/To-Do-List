@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To do list</string>
+    <string name="t_tulo">Título</string>
+    <string name="mensagem">Mensagem (opcional) </string>
+    <string name="hora">Hora</string>
+    <string name="data">Data</string>
+</resources>
